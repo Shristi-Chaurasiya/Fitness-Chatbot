@@ -7,3 +7,6 @@ To run this code in PyCharm:
 2.	Create a new Python file (e.g. fitness_chatbot.py) and paste the provided code into it.
 3.	Run the script by clicking on the green arrow button in the toolbar or pressing Shift + F10.
 4.	You can interact with the chatbot by typing your queries in the console that appears at the bottom of PyCharm.
+
+Documentation link:
+https://drive.google.com/file/d/1QVofXpBolUkMMa1ThkreYM2dKWH6DtRU/view?usp=sharing
