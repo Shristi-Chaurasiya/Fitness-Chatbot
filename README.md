@@ -10,3 +10,6 @@ To run this code in PyCharm:
 
 Documentation link:
 https://drive.google.com/file/d/1QVofXpBolUkMMa1ThkreYM2dKWH6DtRU/view?usp=sharing
+
+Video link:
+https://drive.google.com/file/d/1QYIB5LTNbnTOI8Z_-gxh-7EC_opWpf6x/view?usp=sharing
